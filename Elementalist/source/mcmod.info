@@ -1,0 +1,21 @@
+[
+{
+	"modid" : "Elementalist",
+	"name" : "Elementalist",
+	"description" : "Become an elementalist and control the flow of the auras.",
+	"mcversion" : "1.7.10",
+	"version" : "1.0a",
+	"url" : "",
+	"updateUrl" : "",
+	"authorList" : [
+		"RocketOranges"
+	],
+	"credits" : "",
+	"logoFile" : "",
+	"screenShots" : [
+	],
+	"parent" : "",
+	"dependencies" : [
+	]
+}
+]
